@@ -2,6 +2,8 @@
 
 A simple Pokédex built with Angular.js.
 
+Start the app running: npm start.
+
 ## LEGAL
 
 ### Pokémon
