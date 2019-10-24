@@ -1,8 +1,23 @@
 # Pokédex
 
-A simple Pokédex built with Angular.js.
+A simple Pokédex built with AngularJS.
 
-Start the app running: npm start.
+1. With your command prompt open the folder of the Pokédex project.
+
+2. Run the following command to install dependencies:
+```
+npm install
+```
+
+3. Then run:
+```
+npm install -g grunt
+```
+
+4. Finally start the app running:
+```
+npm start
+```
 
 ## LEGAL
 
