@@ -19,6 +19,8 @@ npm install -g grunt
 npm start
 ```
 
+Find the app running in localhost:9000
+
 ## LEGAL
 
 ### Pokémon
